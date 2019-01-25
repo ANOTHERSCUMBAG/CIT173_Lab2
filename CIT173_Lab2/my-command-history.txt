@@ -1,0 +1,158 @@
+    1  mkdir
+    2  MKdir
+    3  mkdir
+    4  hel
+    5  help
+    6  mkidr
+    7  command mkdir
+    8  mkdir CIT173_lab1
+    9  FAVORITE_ANIMALtyga
+   10  FAVORITE_ANIMAL
+   11  FAVORITE_ANIMAL dog
+   12  FAVORITE_ANIMAL/dog
+   13  LS
+   14  ls
+   15  FAVORITE_ANIMAL/DOG
+   16  cd ~/
+   17  cd CIT173_lab1
+   18  FAVORITE_ANIMAL/TYGA
+   19  export FAVORITE_ANIMAL=tiger
+   20  mkdir my-env.txt
+   21  cd my-env.txt
+   22  env
+   23  export MY_AGE=19YEARS OLD 
+   24  export BEST_PIZZA_TOPPING =cheese
+   25  export BEST_PIZZA_TOPPING=OLIVES
+   26  export MY MIDDLE_NAME=ZAQERY
+   27  export MY_CAR_MAKE=CHRYSLER
+   28  my-env.txt.
+   29  env
+   30  uname
+   31  uname my-sys-info.txt
+   32  man-k
+   33  cd ~/
+   34  cd CIT173_lab1
+   35  mkdir my-sys-info.txt
+   36  cd my-sys-info.txt
+   37  uname
+   38  cat /etc/group
+   39  cat~> CIT173_lab1/my-groups.txt.
+   40  cd /
+   41  cd ~/
+   42  cd CIT173_lab1/
+   43  mkdir my-groups.txt
+   44  cd /
+   45  cat /etc/group> my-groups.txt
+   46  reboot
+   47  cs~
+   48  CD ~
+   49  cd ~
+   50  ls
+   51  CIT173_lab1 ls
+   52  ls CIT173_lab1
+   53  my-env.txt
+   54  env >/CIT_173lab1/my-env.txt.
+   55  env >~/CIT173_lab1/my_env.txt.
+   56  cat/etc/group
+   57  tee~/CIT173_lab1/my-groups.txt.
+   58  tee~/CIT173_lab1/my-groups.txt
+   59  head -n 128 /dev/urandom
+   60  6c
+   61  tree
+   62  run
+   63  host
+   64  man
+   65  *dr
+   66  reset
+   67  dir
+   68  ls dir
+   69  cd
+   70* cd CIT173_lab1
+   71  file
+   72  -n 128/dev/random
+   73  head n- 128/dev/urandom tr-dc-A-Za-z0-9 head> ~/CIT173_lab1/file1.dat
+   74  cat/etc/groups
+   75  cat /etc/groups
+   76  cat /etc/group
+   77  cat /etc/group| tee ~/CIT173_lab1/my-groups.txt
+   78  cat /etc/group | tee ~/CIT173_lab1/my-groups.txt
+   79  head-n 128 /dev/urandom| tr -dc a-Za-z0-9| head >~/CIT173_Lab1/file1.dat
+   80  head -n 128 /dev/urandom| tr -dc A-Za-z0-9| head >~/CIT173_Lab1/file1.dat
+   81  head -n 128 /dev/urandom | tr -dc A-Za-z0-9 | head >~/CIT173_Lab1/file1.dat
+   82  head -n 128 /dev/urandom | tr -dc A-Za-z0-9 | head > ~/CIT173_Lab1/file1.dat
+   83  head -n 128 /dev/urandom | tr -dc A-Za-z0-9 | head > ~/CIT173_Lab1/file2.dat
+   84  cat ~/CIT173_lab1/file1.dat ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   85  cat ~/CIT173_lab1/file1.dat  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   86  cat ~/CIT173_lab1/file1.dat ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   87  cat ~/CIT173_lab1/file1.dat ~/CIT173_Lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   88  cat ~/CIT173_lab1/file1.dat ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   89  cat ~/CIT173_lab1/file1.dat > ~/CIT173_lab1/my-concat-file.dat
+   90  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-cancat-file.dat
+   91  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   92  ~/CIT173_Lab1/file2.dat > ~/CIT173_Lab1/my-concat-file.dat
+   93  ~/CIT173_Lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   94  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   95  cat ~/CIT173_lab1/file1.dat ~/CIT173_Lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   96  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   97  cat ~/CIT173_lab1/file1.dat ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+   98  ls
+   99  head -n 128 /dev/urandom | tr -dc A-Za-z0-9 | head > ~/CIT173_Lab1/file2.dat
+  100  ls
+  101  cp file1.dat file2.dat
+  102  ls
+  103  ~/CIT173_lab1/file2.dat > ~/CIT173_lab1/my-concat-file.dat
+  104  cat ~/CIT173_lab1/file1.dat ~/CIT173_lab1/file2.dat > my-concat-file.dat
+  105  git config --global user.name <ANOTHERSCUMBAG>
+  106  git config -global user.name <ANOTHERSCUMBAG>
+  107  git config -global user.name "ANOTHERSCUMBAG"
+  108  YES
+  109  git config --global user.name "ANOTHERSCUMBAG"
+  110  git config --global user.email "davidmahe99@yahoo.com"
+  111  mkdir
+  112  home
+  113  mk dir CIT173_Lab2
+  114  mkdir CIT173_Lab2
+  115  cd ~/CIT173_Lab2
+  116  cd
+  117  echo $SHELL
+  118  cd ~CIT173_Lab2
+  119  mkdir CIT173_Lab2
+  120  cd ~/ CIT173_lab2
+  121  cd CIT173_Lab2/
+  122  echo $0
+  123  ls~
+  124  ls ~
+  125  type bash
+  126  cd ~/
+  127  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab2_Files.git
+  128  cat ~/CIT173_Lab2_Files.git
+  129  cat ~/CIT173_Lab2_Files/
+  130  cat ~/CIT173_Lab2_Files
+  131  ls CIT173_lab2_Files/
+  132  ls CIT173_Lab2_Files/
+  133  wc ~/CIT173_Lab2/my-phonebook.txt
+  134  wc ~/CIT173_Lab2/my-phonebook
+  135  wc~/CIT173_Lab2/my-phonebook.txt
+  136  cat ~/CIT173_Lab2/my-phonebook.txt
+  137  cat ~/CIT173_Lab2/my-phonebook.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+  138  wc~/CIT173_Lab2/my-phonebook.txt
+  139  wc ~/CIT173_Lab2/my-phonebook.txt
+  140  cat ~/CIT173_Lab2/my-phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+  141  cat ~/CIT173_Lab2_Files/my-phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+  142  cat ~/CIT173_Lab2_Files/phonebook1.txt ~/CIT173_Lab2_Files/phonebook2.txt > ~/CIT173_Lab2/my-phonebook.txt
+  143  wc ~/CIT173_Lab2/my-phonebook.txt
+  144  cat ~/CIT173_Lab2/my-phonebook.txt | less
+  145  q
+  146  cat ~/CIT_Lab2_Files/phonelisting1.txt > ~/CIT173_Lab2_Files/phonelisting.txt > ~/CIT173_Lab2/my-phonelisting.txt
+  147  cat ~/CIT173_Lab2_Files/phonelisting1.txt ~/CIT173_Lab2_Files/phonelisting.txt > ~/CIT173_Lab2/my-phonelisting.txt
+  148  tac ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-phonebook-reverse.txt
+  149  join ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-phonelisting.txt
+  150* join ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-phonelisting.txt
+  151  join ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-phonelisting.txt > ~/CIT173_Lab2/my-joined-phonebook.txt
+  152  join ~/CIT173_Lab2/my-phonebook.txt ~/CIT173_Lab2/my-phonelisting.txt > ~/CIT173_Lab2/my-joined-phonebook.txt
+  153  unexpand ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-tabbed-phonebook.txt
+  154  sort ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-sorted-phonebook.txt
+  155  nl ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-numbered-phonebook.txt
+  156  head ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-head-phonebook.txt
+  157  tail ~/CIT173_Lab2/my-phonebook.txt > ~/CIT173_Lab2/my-tail-phonebook.txt
+  158  history > ~/CIT173_Lab2/my-command-history.txt
